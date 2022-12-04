@@ -50,7 +50,7 @@
   </a>
 
   
-  <a href="mailto:mohamedaziz.maamar@esprit.tn" target="_blank">
+  <a href="mailto:aziz.maamar@vaganet.fr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 </div>
