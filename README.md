@@ -1,8 +1,6 @@
 <h3 align="center">
   Welcome to Maamar Aziz's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-
 </h3>
 
 <br/>
@@ -12,7 +10,7 @@
 ## :notebook_with_decorative_cover: Detailed information
 
 - Name: Maamar Aziz
-- Age: 25 Years
+- Age: 26 Years
 - University: ESPRIT (Ecole Sup Privée d'Ingénierie et de Technologies)
 
 <div>
