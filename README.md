@@ -12,10 +12,12 @@
 - Name: Maamar Aziz
 - Age: 26 Years
 - University: ESPRIT (Ecole Sup Privée d'Ingénierie et de Technologies)
-
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nanddeepn&show_icons=true&locale=en&layout=compact)
 <div>
   <a href="https://github.com/AzizMaamar">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AzizMaamar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    
+   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMaamar&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
   
