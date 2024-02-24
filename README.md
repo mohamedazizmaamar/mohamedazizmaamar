@@ -19,11 +19,13 @@
    
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMaamar&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=nanddeepn&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nanddeepn&show_icons=true&locale=en&layout=compact)
 
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nanddeepn)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=AzizMaamar&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AzizMaamar&show_icons=true&locale=en&layout=compact)
+
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AzizMaamar)
 ###
   
 <div align="left">
