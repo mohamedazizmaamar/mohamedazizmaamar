@@ -8,7 +8,7 @@
 
 <br/>
 
-This is Maamar Aziz. As a fan and enabler of Microsoft Technologies, my goals include continuous learning and career growth, with an adaptive approach to new technologies. Actively participating in the Power Users Community, I strive to contribute by solving queries and offering practical solutions through my blog. Beyond work, I find pleasure in reading novels, and engaging in Sports.
+This is Maamar Aziz. As a fan of Microsoft Technologies, With a passion for continuous learning and career advancement, I embrace new technologies with an adaptable mindset. Actively engaged in the Power Users Community, I endeavor to assist others by resolving queries and providing practical solutions.
 
 ![image](https://img.shields.io/badge/Microsoft-Consultant-orange)
 ![image](https://img.shields.io/badge/Microsoft-PowerPlatform-red)
