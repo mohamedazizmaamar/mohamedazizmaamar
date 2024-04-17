@@ -8,7 +8,7 @@
 
 <br/>
 
-This is Shaheer Ahmad. As a fan and enabler of Microsoft Technologies, my goals include continuous learning and career growth, with an adaptive approach to new technologies. Actively participating in the Power Users Community, I strive to contribute by solving queries and offering practical solutions through my blog. Beyond work, I find pleasure in reading novels, playing badminton, and engaging in E-Sports.
+This is Maamar Aziz. As a fan and enabler of Microsoft Technologies, my goals include continuous learning and career growth, with an adaptive approach to new technologies. Actively participating in the Power Users Community, I strive to contribute by solving queries and offering practical solutions through my blog. Beyond work, I find pleasure in reading novels, playing badminton, and engaging in E-Sports.
 
 - 🔭 I’m currently working on **Microsoft Technologies**
 
