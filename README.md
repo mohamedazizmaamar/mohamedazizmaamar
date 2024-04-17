@@ -1,4 +1,4 @@
-![image](https://github.com/shaheerahmadch/shaheerahmadch/assets/114233717/8b8a054d-faf5-4e96-b67f-1645cc81fc48)
+![image]()
 
 
 <h3 align="center">
