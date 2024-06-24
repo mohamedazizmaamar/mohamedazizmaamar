@@ -10,9 +10,9 @@
 
 This is Maamar Aziz. As a fan of Microsoft Technologies, With a passion for continuous learning and career advancement, I embrace new technologies with an adaptable mindset. Actively engaged in the Power Users Community, I endeavor to assist others by resolving queries and providing practical solutions.
 
-![image](https://img.shields.io/badge/Microsoft-Consultant-orange)
+![image](https://img.shields.io/badge/Microsoft-Dynamics365-orange)
 ![image](https://img.shields.io/badge/Microsoft-PowerPlatform-red)
-![image](https://img.shields.io/badge/Microsoft-Dynamics365-blue)
+![image](https://img.shields.io/badge/Microsoft-Azure-blue)
 
 - 🔭 I’m currently working on **Microsoft Technologies** 
 
