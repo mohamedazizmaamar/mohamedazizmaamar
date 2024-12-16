@@ -28,6 +28,6 @@ This is Maamar Aziz. As a fan of Microsoft Technologies, With a passion for cont
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedazizmaamar/)
-[![image](https://img.shields.io/badge/![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white))](https://x.com/maamarmedaziz)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/maamarmedaziz)
 
 </div>
