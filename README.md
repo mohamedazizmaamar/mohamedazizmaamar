@@ -12,6 +12,7 @@ This is Maamar Aziz. As a fan of Microsoft Technologies, With a passion for cont
 
 ![image](https://img.shields.io/badge/Microsoft-Dynamics365-orange)
 ![image](https://img.shields.io/badge/Microsoft-PowerPlatform-red)
+![image](https://img.shields.io/badge/Microsoft-CopilotStudio-green)
 ![image](https://img.shields.io/badge/Microsoft-Azure-blue)
 ![image](https://img.shields.io/badge/Microsoft-.NET-purple)
 
